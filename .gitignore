@@ -1,0 +1,5 @@
+data/*
+.vscode/*
+env/*
+notebook/.ipynb_checkpoints
+app/.streamlit
